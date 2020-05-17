@@ -3,20 +3,20 @@
 Repository created to support Microsoft - GCSEC event.
 CERT STAR
 
-Agenda:
+**Agenda:**
 
-  **Intro
+  **Intro**
   
-  Microsoft Security Overview
+  **Microsoft Security Overview**
 
-  Bring Your Own Threat Intelligence Feeds LAB:
+  **Bring Your Own Threat Intelligence Feeds LAB:**
   
   •Microsoft Defender ATP
   
   •Azure Sentinel
   
 
-  Closing
+  **Closing**
 
 
   
