@@ -5,7 +5,7 @@ CERT STAR
 
 Agenda:
 
-  Intro
+  **Intro
   
   Microsoft Security Overview
 
