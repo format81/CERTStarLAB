@@ -11,16 +11,8 @@ CERT STAR
 
   **Bring Your Own Threat Intelligence Feeds LAB:**
   
-  •Microsoft Defender ATP
+  •Microsoft Defender ATP - MineMeld
   
-  •Azure Sentinel
+  •Azure Sentinel - MISP
   
-
   **Closing**
-
-
-  
- 
-
-
-
